@@ -1,0 +1,53 @@
+body {
+  background: linear-gradient(#5c5470, #352f44, #2a2438);
+}
+.container {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin: 45px;
+  background-color: rgba(180, 165, 165, 0.2);
+  border: 1px solid #b4a5a5;
+  border-radius: 15px;
+}
+.depressing {
+  font-family: "Dancing Script", cursive;
+  font-size: larger;
+  font-weight: bold;
+}
+h2 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+li {
+  list-style: none;
+  font-weight: bold;
+}
+.placeholder {
+  width: 35%;
+  border-radius: 15px;
+}
+.notIt {
+  font-style: italic;
+  text-decoration: underline;
+}
+p {
+  font-weight: bold;
+}
+.smartAss {
+  font-style: italic;
+  color: #dbd8e3;
+}
+.subscribe-button {
+  line-height: 1.5;
+  background-color: #2a2438;
+  color: #b4a5a5;
+  border: 1px solid #b4a5a5;
+  border-radius: 25px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.subscribe-button:hover {
+  cursor: pointer;
+  background-color: #dbd8e3;
+  color: #2a2438;
+}
